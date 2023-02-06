@@ -1,0 +1,8 @@
+lwords
+pthread
+pwords
+words
+!words.o
+!lwords.o
+!word_count.o
+!word_helpers.o
