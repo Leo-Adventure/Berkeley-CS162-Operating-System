@@ -8,3 +8,7 @@ This repository contains materials from the author's operating system course at 
 1/31 Finish Project0(Work Through Pintos to debug, more familiar with GDB)
 
 2/5 Finish Homework1(Thread, Mutex, Pintos List)
+
+2/23 Finish Homework2(Shell)
+
+2/23 Upload Midterm1
