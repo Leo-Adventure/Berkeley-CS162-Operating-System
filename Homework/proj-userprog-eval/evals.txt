@@ -1,0 +1,4 @@
+Name|Autograder ID (XXX)|Score|Comment
+Junhee Park|333|20|Worked on designing and implementing the arguments passing and wrote the function setup_user_stack to correctly set up the stack before user program execution. She also implemented the argument validation for user-passed syscall arguments, ensured the executable file would not be changed during runtime, and created some customized tests. She also helped to debug various parts of the project.
+Chris Liu|105|20|Worked on designing and implementing process control syscalls. He also worked with Junhee to implement argument validation for user-passed syscall arguments and worked with Mingqian to debug synchronization issues with file operation syscalls + ensure the necessary files are closed when a process exits.
+Hugh Lau|198|20| Worked on implementing FPU saving on the stack for context switching and interrupts. He also helped to debug the argument passing. 
